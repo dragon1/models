@@ -1,1 +1,31 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<entity>
+    <class>application</class>
+    <id>1</id>
+    <name>CRM</name>
+    <type>Sales</type>
+</entity>
+<entity>
+    <class>application</class>
+    <id>2</id>
+    <name>Excel</name>
+    <type>Office</type>
+</entity>
+<entity>
+    <class>application</class>
+    <id>3</id>
+    <name>eHRM</name>
+    <type>HR</type>
+</entity>
+<entity>
+    <class>application</class>
+    <id>4</id>
+    <name>FinERP</name>
+    <type>Finance</type>
+</entity>
+<entity>
+    <class>application</class>
+    <id>5</id>
+    <name>ProdSys</name>
+    <type>Production</type>
+</entity>
