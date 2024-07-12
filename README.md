@@ -8,6 +8,8 @@
 <p>Models and diagrams in this repository can be viewed in  the Dragon1 Viewer.</p>
 <p>Models and diagrams can be stored in XML Files, JSON Files, Excel Files and CSV Files.</p>
 <p>Dragon1 often uses .dragon1 to make clear the JSON files are in the Dragon1 format.</p>
-<p>Example: https://www.dragon1.com/viewer?f=https://raw.githubusercontent.com/dragon1/models/main/dragon1/applications-diagram.dragon1</p>
+<p>Example: https://www.dragon1.com/viewer?f=https://raw.githubusercontent.com/dragon1/models/main/json/dragon1-application-component-reuse-opportunities.json
+
+</p>
 
 <p>Other example: https://www.dragon1.com/viewer?f=/downloads/Dragon1-Data-Architecture-Landscape.xlsx</p>
