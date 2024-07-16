@@ -1,4 +1,5 @@
 [
+{"url":"https://www.dragon1.com/resources/enterprise-architecture"},
 {"class":"application", "id":"1", "name":"CRM", "type":"Sales"},
 {"class":"application", "id":"2", "name":"Excel", "type":"Office"},
 {"class":"application", "id":"3", "name":"eHRM", "type":"HR"},
